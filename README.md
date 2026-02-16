@@ -22,10 +22,9 @@ What is our digital history/humanities method:
 
 
 
-# Sunday 2-15-25
 
-**PSYOPtics: Psychological Operations and the Formation of American Reality**
-
+# PSYOPtics: Psychological Operations and the Formation of American Reality
+**Sunday 2-15-25**
 Ananya Burman and Syd Davis
 
 For our digital history project, we will be creating a Public Broadcasting Network which will host video essays, research, and collections, with a platform intended on actualizing accessibility, viewer engagement, and discussion. Our first Episode, and primary aspect of the project, will be a video essay presented with a curated digital collection and discussion board. The Public Broadcasting Network will be a static site, hosting various collections, episodes, and discussions aimed at
