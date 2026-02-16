@@ -24,17 +24,14 @@ What is our digital history/humanities method:
  
  
 # PSYOPtics: Psychological Operations and the Formation of American Reality
-**Sunday 2-15-25**
+**Sunday 2-15-26**
 
 **By: Ananya Burman and Syd Davis**
 
 Working Research Question:
 The working questions which will drive the Video Essay episode, and preceding Resource Collection are: How have domestic CIA Psychological Operations impacted not just the shared memory of American citizens, but American reality at large? How has PSYOP evolved through time following the digital revolution? How has this evolution worked to enforce or reinforce earlier narratives? 
 
-
-For our digital history project, we will be creating a Public Broadcasting Network which will host video essays, research, and collections, with a platform intended to actualize accessibility, viewer engagement, and discussion. Our first Episode, and primary aspect of the project, will be a video essay presented with a curated digital collection and discussion board. The Public Broadcasting Network will be a static site, hosting various collections, episodes, and discussions aimed at educating viewers on the critical analysis of history and historical production. With a focus on a sustainable, transparent mode of historical, philosophical, and political documentation and scholarship, the network...
-
-The first ‘episode’ will entail an analysis of the CIA’s Psychological-operations program, investigating how the operations attempted to reinforce or alter public imagination on state authority and political systems. 
+For our digital history project, we will be creating a Public Broadcasting Network which will host video essays, research, and collections, with a platform intended to actualize accessibility, viewer engagement, and discussion. Our first Episode, and primary aspect of the project, will be a video essay presented with a curated digital collection and discussion board. The Public Broadcasting Network will be a static site, hosting various collections, episodes, and discussions aimed at educating viewers on the critical analysis of history and historical production. With a focus on a sustainable, transparent mode of historical, philosophical, and political documentation and scholarship, the network is intended to become a longstanding interface that continues on outside of the course and develops through collaboration and engagement.
 
 The first episode of the series, titled “PSYOPtics: Psychological Operations and the American Imagination,” will investigate the CIA’s Psychological-operations program, analyzing how the operations worked with, and altered public imagination related to capitalism and the American Dream. This episode will provide a brief origin of PSYOP, beginning with its earliest military uses during World War I, to understand the three strands of psychological operations that shaped the birth of the modern PSYOP program. Following this, we will pinpoint three distinct historical moments and the psychological operations that follow them. The periods under investigation are: Cold War operations (1947-1991), Post-Cold War operations (roughly 1990-2008), concluding with an analysis of PSYOP in the age of the internet (2010-present). In analyzing these moments in time and their relationships to PSYOP, we hope to develop a space for critical analysis of history, politics, and American memory. Covert programs developed by the United States government have long since played a role in the construction of the domestic collective perception of reality in America, both politically and metaphysically. Understanding the direct initiatives involved in such cultivation is an invaluable resource for the general public. 
 
