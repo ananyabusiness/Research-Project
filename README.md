@@ -19,10 +19,10 @@ What is our digital history/humanities method:
   - Our first episode will provide source and discussion platforms to engage with data concerning the government’s intentional constructions perception through psychological operations/MISO. 
         - Enmesh specific Historical significance*^
   - Our PBS will provide a platform to engage with relevant topics that combine….. Work on this
-
-
-
-
+ 
+ 
+ 
+ 
 # PSYOPtics: Psychological Operations and the Formation of American Reality
 **Sunday 2-15-25**
 
