@@ -30,8 +30,17 @@ What is our digital history/humanities method:
 
 Ananya Burman and Syd Davis
 
-Research Questions:
+For our digital history project, we will be creating a Public Broadcasting Network which will host video essays, research, and collections, with a platform intended on actualizing accessibility, viewer engagement, and discussion. Our first Episode, and primary aspect of the project, will be a video essay presented with a curated digital collection and discussion board. The Public Broadcasting Network will be a static site, hosting various collections, episodes, and discussions aimed at
 
-Digital tools and methods: 
+With a focus on a sustainable, transparent mode of historical, philosophical, and political documentation and scholarship, the network...
 
-Planned data
+
+the United States government has long since played a role in the construction of the domestic collective perception of reality in America, both politically and metaphysically. Understanding the direct initiatives involved in such cultivation is an invaluable resource for the general public. 
+
+The Primary Resources used to create “PSYOPtics” will be exhibited through a digital collection of documents pertaining to the development of what is now known as Military Information Support Operations (MISO).
+
+The broader format of the public broadcasting network will provide a space for viewers to interact with the digital collection, discuss with others (as well as with “us”), and more intimately engage with the material at hand.
+
+
+We will be working with various digital tools involved in both the interface and contents of the first episode. The Public Broadcasting network will be a static site, generated through Jekyll, hosted and edited through the Github platform. Our digital collection will be built and incorporated through CollectionBuilder, an open source framework that uses Jekyll to facilitate the generation of a more formal Digital Collection of, in this case, documents and artifacts concerning various progressions, processes, and impacts of formal American Psychological Operations. We will inevitably be using Google Spreadsheets in order to organize and facilitate our ‘metadata’ into CollectionBuilder. We will embark on compiling various government, military, foreign, and civilian documents to showcase the various factors of psychological operations through the significant eras of progression, allowing for an accessible, yet focused visualization of psychological operations in America. 
+
