@@ -26,7 +26,7 @@ What is our digital history/humanities method:
 
 **Working Title**
 
-##PSYOPtics: 
+## PSYOPtics: Psychological Operations and the Formation of American Reality
 
 Ananya Burman and Syd Davis
 
