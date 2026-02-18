@@ -5,10 +5,5 @@ permalink: /digital-collections/
 ---
 
 # Digital Collections
+we will add out collection-builder addition here 
 
-<iframe 
-    src="YOUR_COLLECTIONBUILDER_URL"
-    width="100%" 
-    height="900px" 
-    style="border:none;">
-</iframe>
