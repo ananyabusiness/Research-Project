@@ -1,0 +1,13 @@
+title: "Your Site Title"
+description: "Your site description"
+theme: minima   # or whatever theme you're using
+
+nav:
+  - title: "Social Manifesto"
+    url: /Social-Manifesto/
+  - title: "Episodes"
+    url: /Episodes/
+  - title: "Team"
+    url: /Team/
+  - title: "Digital Collections"
+    url: /Digital-Collections/
