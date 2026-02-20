@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Team
-permalink: /team/
+title: Digital Collections
+permalink: /digital-collections/
 ---
 
 # Team
