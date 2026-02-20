@@ -4,6 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Welcome
+# Hello
 
-This is your homepage.
+This is our homepage
