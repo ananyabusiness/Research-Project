@@ -1,13 +1,15 @@
 title: "Your Site Title"
 description: "Your site description"
-theme: minima   # or whatever theme you're using
+theme: minima
 
 nav:
   - title: "Social Manifesto"
-    url: /Social-Manifesto/
+    url: /social-manifesto/
   - title: "Episodes"
-    url: /Episodes/
+    url: /episodes/
   - title: "Team"
-    url: /Team/
+    url: /team/
   - title: "Digital Collections"
-    url: /Digital-Collections/
+    url: /digital-collections/
+
+markdown: kramdown
