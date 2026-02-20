@@ -3,3 +3,7 @@ description: "Your site description"
 theme: null
 markdown: kramdown
 
+include:
+  - _includes
+  - _layouts
+  - assets
