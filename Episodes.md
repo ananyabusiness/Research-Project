@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Episodes
-permalink: /Episodes/
+permalink: /episodes/
 ---
 
 # Episodes
