@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Social Manifesto
-permalink: /social-manifesto/
+permalink: /Social-Manifesto/
 ---
 
 # Social Manifesto
