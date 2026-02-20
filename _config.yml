@@ -1,15 +1,5 @@
 title: "Your Site Title"
 description: "Your site description"
 theme: minima
-
-nav:
-  - title: "Social Manifesto"
-    url: /social-manifesto/
-  - title: "Episodes"
-    url: /episodes/
-  - title: "Team"
-    url: /team/
-  - title: "Digital Collections"
-    url: /digital-collections/
-
 markdown: kramdown
+
