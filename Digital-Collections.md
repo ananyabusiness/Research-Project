@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Collections
-permalink: /digital-collections/
+permalink: /Digital-Collections/
 ---
 
 # Digital Collections
