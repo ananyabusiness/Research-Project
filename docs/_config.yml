@@ -3,6 +3,9 @@ description: "Your site description"
 theme: null
 markdown: kramdown
 
+# REQUIRED for GitHub Pages project sites
+baseurl: "/Research-Project"
+
 include:
   - _includes
   - _layouts
