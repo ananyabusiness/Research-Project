@@ -23,6 +23,13 @@
     "SCAN" 0;
 }
 
+/* Page titles + headers */
+h1, h2, h3 {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .site-title a:hover {
   color: #007acc;
 }
