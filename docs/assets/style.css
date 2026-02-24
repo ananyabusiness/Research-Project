@@ -1,8 +1,8 @@
 /* Entire header bar */
 .site-header {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  justify-content: space-between;
   background: #f5f5f5;
   padding: 1rem;
 }
