@@ -23,6 +23,11 @@
     "SCAN" 0;
 }
 
+/* Center page titles */
+h1 {
+  text-align: center;
+}
+
 /* Page titles + headers */
 h1, h2, h3 {
   font-family: "VT323", monospace;
@@ -53,9 +58,4 @@ h1, h2, h3 {
 
 .site-nav a:hover {
   color: #007acc;
-}
-
-/* Center page titles */
-h1 {
-  text-align: center;
 }
