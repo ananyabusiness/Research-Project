@@ -59,3 +59,7 @@ h1, h2, h3 {
 .site-nav a:hover {
   color: #007acc;
 }
+
+.site-nav a {
+  font-family: "VT323", monospace;
+}
