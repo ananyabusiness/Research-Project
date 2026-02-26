@@ -69,6 +69,7 @@ h1, h2, h3 {
   color: #007acc;
 }
 
+.site-nav ul,
 .site-nav li {
-  background: #000;
+  background: none;
 }
