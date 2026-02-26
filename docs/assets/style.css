@@ -67,3 +67,7 @@ h1, h2, h3 {
 .site-nav a:hover {
   color: #007acc;
 }
+
+.site-nav li {
+  background: #000;
+}
