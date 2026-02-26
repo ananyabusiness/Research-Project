@@ -99,3 +99,10 @@ main > * {
 main p:first-of-type {
   margin-top: 2rem;
 }
+
+.team-photo {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto 2rem auto;
+  border-radius: 8px; /* optional */
+}
