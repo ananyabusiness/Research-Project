@@ -4,6 +4,14 @@ title: Social Manifesto
 permalink: /social-manifesto/
 ---
 
-# SOCIAL MANIFESTO
+# "Remember, we may only know the actual through contrast with, or likening to, the imaginable."
 
-this will be where we put the manifesto.
+# - Hayden White
+
+## 1. Strive for transparency and accessibility
+
+## 2. Continually look for the gaps and silences in the scholarship we share
+
+## 3. Welcome discourse between the user and the collection
+
+## Promote positionality in knowledge production
