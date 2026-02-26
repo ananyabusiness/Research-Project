@@ -6,4 +6,8 @@ permalink: /episodes/
 
 # EPISODES
 
-Episodes, written, video, possibly commenting
+##1. PSYOPtics: Psychological Operations and the Formation of American Reality
+
+video
+bio
+discussion board
