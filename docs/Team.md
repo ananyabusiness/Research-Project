@@ -4,6 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-# Team
+# MEET THE TEAM
 
 little bio about us!
