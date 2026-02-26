@@ -70,8 +70,8 @@ h1 {
   font-size: 1.4rem;
 }
 
-.site-nav a:hover {
-  color: #007acc;
+.site-header .site-nav a:hover {
+  color: #007acc !important;
 }
 
 .site-header,
