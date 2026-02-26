@@ -14,4 +14,4 @@ permalink: /social-manifesto/
 
 ## 3. Welcome discourse between the user and the collection
 
-## Promote positionality in knowledge production
+## 4. Promote positionality in knowledge production
