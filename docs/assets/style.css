@@ -45,6 +45,10 @@ h1, h2, h3 {
   font-style: normal;
 }
 
+main h1 {
+  margin-bottom: 2rem;
+}
+
 /* Navigation menu */
 .site-nav ul {
   list-style: none;
