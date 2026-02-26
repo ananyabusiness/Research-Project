@@ -4,6 +4,6 @@ title: Social Manifesto
 permalink: /social-manifesto/
 ---
 
-# Social Manifesto
+# SOCIAL MANIFESTO
 
 this will be where we put the manifesto.
