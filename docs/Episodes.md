@@ -8,6 +8,8 @@ permalink: /episodes/
 
 ## 1. PSYOPtics: Psychological Operations and the Formation of American Reality
 
-video
+video, embedded and centered
+
 bio
+
 discussion board
