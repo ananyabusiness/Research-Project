@@ -106,3 +106,8 @@ main p:first-of-type {
   margin: 0 auto 2rem auto;
   border-radius: 8px; /* optional */
 }
+
+h2 {
+  margin-top: 2rem;   /* space above the ## heading */
+  margin-bottom: 1rem; /* space below the ## heading */
+}
