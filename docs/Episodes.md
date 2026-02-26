@@ -4,6 +4,6 @@ title: Episodes
 permalink: /episodes/
 ---
 
-# Episodes
+# EPISODES
 
 Episodes, written, video, possibly commenting
