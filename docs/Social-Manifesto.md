@@ -4,14 +4,14 @@ title: Social Manifesto
 permalink: /social-manifesto/
 ---
 
-# "Remember, we may only know the actual through contrast with, or likening to, the imaginable."
+# "REMEMBER, WE MAY ONLY KNOW THE ACTUAL THROUGH CONTRAST WITH, OR LIKENING TO, THE IMAGINABLE."
 
 # - Hayden White
 
-## 1. Strive for transparency and accessibility
+1. Strive for transparency and accessibility
 
-## 2. Continually look for the gaps and silences in the scholarship we share
+2. Continually look for the gaps and silences in the scholarship we share
 
-## 3. Welcome discourse between the user and the collection
+3. Welcome discourse between the user and the collection
 
-## 4. Promote positionality in knowledge production
+4. Promote positionality in knowledge production
