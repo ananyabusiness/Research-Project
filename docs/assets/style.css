@@ -78,3 +78,10 @@ h1, h2, h3 {
 body {
   font-family: "Share Tech Mono", monospace;
 }
+
+main {
+  max-width: 800px;   /* controls line length */
+  margin: 0 auto;     /* centers the content */
+  padding: 2rem;      /* adds space inside the box */
+  text-align: left;   /* keeps text left-aligned (recommended for readability) */
+}
